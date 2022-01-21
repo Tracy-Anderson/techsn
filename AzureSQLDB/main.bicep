@@ -10,7 +10,7 @@ Runme script below
 */
 param projectname string = 'Tecshn-'
 /* ----------------------------------------------------------------------
-   SqlServer/Database Params
+   SqlServer/Database Params 
    -----------------------------------------------------------------------
 */
 @description('Add Azure regions into which the resources should be deployed.')
